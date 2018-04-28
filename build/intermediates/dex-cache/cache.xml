@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\tdavi\AndroidStudioProjects\LoginTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\tdavi\Documents\_github\LoginApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\tdavi\AndroidStudioProjects\LoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4fca7cea324721943a1a92c2010eadf14656fbf4\classes.dex" />
+        <dex dex="C:\Users\tdavi\Documents\_github\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6f257ebfbd8fbb03c4553eea78f61798bd8d9577\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\tdavi\AndroidStudioProjects\LoginTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\tdavi\Documents\_github\LoginApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="7640a7f2161e2ac668d49a9fcb1d26331aa35a4a">
-        <dex dex="C:\Users\tdavi\AndroidStudioProjects\LoginTest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e3c57736c8d36ab66a7673f56c97e5877d35d2a8\classes.dex" />
+        sha1="53132c1e9ca40056812014dc2a7822fbb7cc24e5">
+        <dex dex="C:\Users\tdavi\Documents\_github\LoginApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e3c80ec240a602ab18484ed0b087e05367cc7f08\classes.dex" />
     </item>
 
 </items>
